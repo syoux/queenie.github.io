@@ -19,10 +19,46 @@
         
             <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</copyright>
         
-        <lastBuildDate>Thu, 24 Nov 2022 06:36:04 &#43;0800</lastBuildDate>
+        <lastBuildDate>Thu, 24 Nov 2022 07:16:06 &#43;0800</lastBuildDate>
         
             <atom:link rel="self" type="application/rss&#43;xml" href="https://queenie.github.io/rss.xml" />
         
+        
+            <item>
+                <title>Hello World</title>
+                <link>https://queenie.github.io/posts/hello_world/</link>
+                <guid isPermaLink="true">https://queenie.github.io/posts/hello_world/</guid>
+                <pubDate>Thu, 24 Nov 2022 07:03:09 &#43;0800</pubDate>
+                
+                <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</copyright>
+                
+                    <description></description>
+                
+                
+                
+                
+                
+                    
+                        
+                    
+                        
+                            
+                                
+                                
+                                
+                                    <category domain="https://queenie.github.io/tags/blog/">blog</category>
+                                
+                            
+                                
+                                
+                                
+                                    <category domain="https://queenie.github.io/tags/hi/">hi</category>
+                                
+                            
+                        
+                    
+                
+            </item>
         
     </channel>
 </rss>
